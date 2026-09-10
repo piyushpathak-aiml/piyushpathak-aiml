@@ -195,12 +195,12 @@ https://sapphire-web-agency.vercel.app/
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   C Programming                              │
-│   Programming Fundamentals                  │
+│   Programming Fundamentals                   │
 │   Web Development                            │
-│   C++                                       │
-│   Python                                    │
-│   Building Real Projects                    │
-│   Automation                                │
+│   C++                                        │
+│   Python                                     │
+│   Building Real Projects                     │
+│   Automation                                 │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
