@@ -42,7 +42,9 @@ These are the technologies and tools I currently use in my projects and workflow
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,supabase,github,git,n8n,vercel,obsidian&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,supabase,github,git&perline=4" />
+<img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
+<img src="https://skillicons.dev/icons?i=vercel,obsidian&perline=2" />
 
 </div>
 
@@ -70,7 +72,7 @@ I'm actively developing my skills in these technologies.
   <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="48" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
   <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="48" alt="Obsidian" />
 </p>
