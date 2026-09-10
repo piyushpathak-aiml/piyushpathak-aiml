@@ -183,8 +183,8 @@ https://sapphire-web-agency.vercel.app/
 
 <div align="center">
 
-<a href="mailto:pathakpiyush.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pathakpiyush.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
