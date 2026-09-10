@@ -67,7 +67,7 @@ I'm actively developing my skills in these technologies.
 
 ### Currently Building With
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
   <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
@@ -79,7 +79,7 @@ I'm actively developing my skills in these technologies.
 
 ### Currently Learning
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
