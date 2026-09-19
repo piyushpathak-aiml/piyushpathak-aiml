@@ -5,7 +5,7 @@
 ### B.Tech CSE (AI-ML) Student · Builder · Entrepreneur
 
 <p>
-  <a href="https://www.linkedin.com/in/piyush--pathak">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/piyushpathak-aiml">LinkedIn</a>
   ·
   <a href="https://www.instagram.com/pathakpiyush.official">Instagram</a>
   ·
@@ -157,7 +157,7 @@ https://sapphire-web-agency.vercel.app/
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/piyush--pathak">
+<a href="https://www.linkedin.com/in/piyushpathak-aiml">
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
