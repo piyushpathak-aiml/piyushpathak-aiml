@@ -45,6 +45,7 @@ These are the technologies and tools I currently use in my projects and workflow
 <img src="https://skillicons.dev/icons?i=c,supabase,github,git&perline=4" />
 <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
 <img src="https://skillicons.dev/icons?i=vercel,obsidian&perline=2" />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
 
 </div>
 
@@ -57,7 +58,7 @@ I'm actively developing my skills in these technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&perline=5" />
 
 </div>
 
@@ -75,6 +76,7 @@ I'm actively developing my skills in these technologies.
   <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
   <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="48" alt="Obsidian" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
 </p>
 
 ### Currently Learning
@@ -83,8 +85,8 @@ I'm actively developing my skills in these technologies.
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
   <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
 </p>
 
 ---
@@ -132,6 +134,27 @@ A web development initiative focused on building premium websites and digital so
 
 **Website:**
 https://sapphire-web-agency.vercel.app/
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+I'm actively learning and practicing **Data Structures and Algorithms (DSA) using Java** to strengthen my problem-solving skills and build a deeper understanding of computer science fundamentals.
+
+My focus is on understanding how algorithms work, analyzing time and space complexity, and learning to choose the right data structures for different problems.
+
+**Current approach:**
+- Learning core data structures and algorithms
+- Practicing problem-solving with Java
+- Understanding time and space complexity
+- Studying algorithmic patterns and problem-solving techniques
+- Building consistency through regular practice
+
+```text
+Learn the Concept → Understand the Complexity → Solve Problems → Review & Improve
+```
+
+I'm documenting my progress as I learn, with the goal of developing strong algorithmic thinking and preparing for more advanced computer science topics.
 
 ---
 
